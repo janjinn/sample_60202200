@@ -1,1 +1,1 @@
-print("say hello")
+print("60202200")
